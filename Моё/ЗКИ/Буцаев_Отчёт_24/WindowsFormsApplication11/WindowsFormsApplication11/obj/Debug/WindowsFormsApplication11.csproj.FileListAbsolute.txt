@@ -1,0 +1,57 @@
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form3.resources
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\Project visual\С#\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form4.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form3.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form4.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form5.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\AdvancedDataGridView.dll
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\AdvancedDataGridView.xml
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form6.resources
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\RdlCompile.cache
+D:\Project visual\Резервная\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\RdlCompile.compiled
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\AdvancedDataGridView.dll
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\AdvancedDataGridView.xml
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form2.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form3.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form4.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form5.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form6.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\RdlCompile.cache
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\RdlCompile.compiled
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+D:\Учёба\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+F:\Моё\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+F:\Моё\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+F:\Моё\ЗКИ\Буцаев_Отчёт_24\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
